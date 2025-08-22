@@ -1,6 +1,17 @@
-# 💫 About Me:
-I'm Ankit Kumar, a Data Science Trainer and Mentor from Noida. I specialize in teaching Python, SQL, and Machine Learning through practical, hands-on projects designed to build job-ready skills.<br><br>My focus is preparing aspiring data scientists for successful careers by helping them build strong portfolios and crack interviews. Let's connect!
+# 💫 Hi 👋, I'm Ankit Kumar
 
+**A passionate Data Science Trainer || AI & ML Mentor from Noida, India**
+
+**Connect with me for Training/Mentorship 👉 ✉️ mytutuorankit@gmail.com 😊**
+
+- 🔭 **I’m currently working on:** **A new hands-on course for deploying Machine Learning models.**
+- 🌱 **I’m currently learning:** **MLOps best practices and the latest in Large Language Models (LLMs).**
+- 👯 **I’m looking to collaborate on:** **Open-source Data Science educational projects and tutorials.**
+- 🤔 **I’m looking for help with:** **Connecting with other data science educators and mentors.**
+- 💬 **Ask me about:** **Python, Machine Learning, SQL, and how to crack Data Science interviews.**
+- 📫 **How to reach me:** **mytutuorankit@gmail.com**
+- 😄 **Pronouns:** **He/Him**
+- ⚡ **Fun fact:** **I believe any complex data problem can be simplified with a whiteboard and a hot cup of chai.**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ankit-datatrainer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit-datatrainer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-datatrainer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankit-datatrainer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ankit-datatrainer) 
@@ -11,6 +22,12 @@ I'm Ankit Kumar, a Data Science Trainer and Mentor from Noida. I specialize in t
 ![](https://github-readme-stats.vercel.app/api?username=ankit-datatrainer&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankit-datatrainer&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-datatrainer&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankit-datatrainer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
